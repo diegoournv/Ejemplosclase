@@ -1,1 +1,1 @@
-# Ejemplosclase
+# Ejemplo clase
